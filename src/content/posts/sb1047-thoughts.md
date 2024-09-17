@@ -62,7 +62,7 @@ To encourage ethical practices and the reporting of potential risks, SB 1047 inc
 
 ## Regulation of Computing Power
 
-Recognizing that advanced AI models require significant computational resources, SB 1047 addresses the role of computing infrastructure providers. Companies offering large scale computing power (think AWS, Azure, Google Cloud, Oracle) must implement policies to verify the identities of their customers and assess the intended use of the computational resources. This KYC approach helps prevent developers from bypassing regulations by outsourcing AI training to third party computing services without proper oversight. Providers are also required to maintain records of customers and their activities, enhancing accountability throughout the AI development chain. This measure ensures that all parties involved in the creation of powerful AI systems are subject to appropriate scrutiny.
+Recognizing that advanced AI models require significant computational resources, SB 1047 addresses the role of computing infrastructure providers. Companies offering large scale computing power (think AWS, Azure, Google Cloud, Oracle) must implement policies to verify the identities of their customers and assess the intended use of the computational resources. This KYC or "know your customer" approach helps prevent developers from bypassing regulations by outsourcing AI training to third party computing services without proper oversight. Providers are also required to maintain records of customers and their activities, enhancing accountability throughout the AI development chain. This measure ensures that all parties involved in the creation of powerful AI systems are subject to appropriate scrutiny.
 
 ## Scope and Applicability
 
