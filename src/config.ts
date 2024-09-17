@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
   name: 'Ty "WarpWing" Chermsirivatana',
-  bio: '19, he/him, Law and Policy Major w/ Computer Science Minor at Dickinson College',
+  bio: '19, he/him, Poli Sci & CS & Dana Research Assistant @ Dickinson College | DevOps @ SkyCrypt',
   links: [
     {
       name: 'GitHub',
