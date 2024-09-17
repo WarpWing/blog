@@ -54,7 +54,7 @@ To maintain transparency and accountability, SB 1047 stipulates that developers 
 
 ## Penalties for Non-Compliance
 
-SB 1047 imposes substantial penalties on developers who fail to comply with its provisions. The California Attorney General has the authority to initiate civil actions against non-compliant developers. Financial penalties are significant: up to 10% of the AI model's training cost for a first violation and up to 30% for subsequent violations. For example, if an AI model cost $100 million to train, fines could reach $10 million or $30 million, respectively. Beyond fines, legal actions could include injunctions that halt the development or deployment of the AI model until compliance issues are resolved. These stringent penalties are designed to ensure that developers take their responsibilities seriously and adhere strictly to safety requirements.
+SB 1047 imposes substantial penalties on developers who fail to comply with its provisions. The California Attorney General has the authority to initiate civil actions against non-compliant developers. Financial penalties are significant: up to 10% of the AI model's training cost for a first violation and up to 30% for subsequent violations. For example, if an AI model cost 100 million to train, fines could reach 10 million or 30 million, respectively. Beyond fines, legal actions could include injunctions that halt the development or deployment of the AI model until compliance issues are resolved. These stringent penalties are designed to ensure that developers take their responsibilities seriously and adhere strictly to safety requirements.
 
 ## Whistleblower Protections
 
