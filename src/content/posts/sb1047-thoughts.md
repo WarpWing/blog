@@ -87,11 +87,17 @@ Though SB 1047 is far from perfect, I hope it can act as a stepping stone toward
 
 I've listed below some articles that I've cited in understanding SB 1047. For more context, I would highly recommend you peruse through them!
 
+Dahlgren, Masao. “Defense Priorities in the Open-Source AI Debate: A Preliminary Assessment.” arXiv, August 19, 2024. https://doi.org/10.48550/arXiv.2408.10026.
+
 DLA Piper. “California’s SB-1047: Understanding the Safe and Secure Innovation for Frontier Artificial Intelligence Act.” Accessed September 17, 2024. https://www.dlapiper.com/en/insights/publications/2024/02/californias-sb-1047.
+
+Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. “Scaling Laws for Neural Language Models.” arXiv, January 22, 2020. https://doi.org/10.48550/arXiv.2001.08361.
 
 Midha, Anjney. “What You Need to Know About SB 1047: A Q&A with Anjney Midha.” Andreessen Horowitz, June 19, 2024. https://a16z.com/sb-1047-what-you-need-to-know-with-anjney-midha/.
 
 SB 1047: Safe and Secure Innovation for Frontier Artificial Intelligence Models Act. | Digital Democracy.” Accessed September 17, 2024. https://digitaldemocracy.calmatters.org/bills/ca_202320240sb1047.
+
+Wasil, Akash, Everett Smith, Corin Katzke, and Justin Bullock. “AI Emergency Preparedness: Examining the Federal Government’s Ability to Detect and Respond to AI-Related National Security Threats.” arXiv, July 27, 2024. https://doi.org/10.48550/arXiv.2407.17347.
 
 Zeff, Maxwell. “California Weakens Bill to Prevent AI Disasters before Final Vote, Taking Advice from Anthropic.” TechCrunch, August 15, 2024. https://techcrunch.com/2024/08/15/california-weakens-bill-to-prevent-ai-disasters-before-final-vote-taking-advice-from-anthropic/.
 
