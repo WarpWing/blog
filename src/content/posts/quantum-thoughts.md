@@ -71,11 +71,11 @@ I hope that I didn't bore my professor as much as I did with my AI Bill post. Yo
 
 I've listed below some articles that I've cited in understanding Quantum Computing. For more context, I would highly recommend you peruse through them!
 
+Asst. Professor of Computer Science, Ferland, Matt "Matt-ematics". Personal Conversation at Dickinson College on Tome 2nd Floor. 16 Sept. 2024. https://www.dickinson.edu/site/custom_scripts/dc_faculty_profile_index.php?fac=ferlandm
+
 American Scientist. “Is Quantum Computing a Cybersecurity Threat?,” January 30, 2019. https://www.americanscientist.org/article/is-quantum-computing-a-cybersecurity-threat.
 
 MIT Technology Review. “Explainer: What Is Post-Quantum Cryptography?” Accessed September 24, 2024. https://www.technologyreview.com/2019/07/12/134211/explainer-what-is-post-quantum-cryptography/.
-
-Asst. Professor of Computer Science, Ferland, Matt "Matt-ematics". Personal Conversation at Dickinson College. 16 Sept. 2024.
 
 Security, HP Wolf. “Anticipating the Quantum Threat to Cryptography.” HP Wolf Security (blog), February 21, 2024. https://threatresearch.ext.hp.com/anticipating-the-quantum-threat-to-cryptography/.
 
