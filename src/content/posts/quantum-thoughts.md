@@ -75,6 +75,8 @@ American Scientist. “Is Quantum Computing a Cybersecurity Threat?,” January 
 
 MIT Technology Review. “Explainer: What Is Post-Quantum Cryptography?” Accessed September 24, 2024. https://www.technologyreview.com/2019/07/12/134211/explainer-what-is-post-quantum-cryptography/.
 
+Asst. Professor of Computer Science, Ferland, Matt "Matt-ematics". Personal Conversation at Dickinson College. 16 Sept. 2024.
+
 Security, HP Wolf. “Anticipating the Quantum Threat to Cryptography.” HP Wolf Security (blog), February 21, 2024. https://threatresearch.ext.hp.com/anticipating-the-quantum-threat-to-cryptography/.
 
 ReHack, Zac Amos. “‘Harvest Now, Decrypt Later’: Why Hackers Are Waiting for Quantum Computing.” VentureBeat (blog), September 21, 2024. https://venturebeat.com/security/harvest-now-decrypt-later-why-hackers-are-waiting-for-quantum-computing/. 
