@@ -11,7 +11,7 @@ draft: false
 > Cover image source: [MIT Technology Review](https://www.technologyreview.com/2019/07/12/134211/explainer-what-is-post-quantum-cryptography/)
 
 :::warning 
-I'm not an Quantum Computing or Cybersecurity expert, so some information may not be entirely accurate. If you would like to suggest corrections, please email me at [chermsit\@dickinson.edu](mailto:chermsit\@dickinson.edu)
+I'm not an Quantum Computing or Cybersecurity expert, so some information may not be entirely accurate. If you would like to suggest corrections, please email me at chermsit@dickinson.edu.
 :::
 
 # A Brief Historical Overview of Encryption
