@@ -27,7 +27,7 @@ As part of my agreement with Professor Braught, I’m tasked with writing about 
 # A Brief Historical Overview of Encryption
 Encryption has been essential for secure communication throughout history. Early methods like the Caesar cipher, used by Julius Caesar, shifted letters by a fixed number to encode messages—for example, shifting "HELLO" three places yields "KHOOR." As cryptography evolved, the 16th-century Vigenère cipher introduced keyword-based shifts, making frequency analysis less effective. Using a keyword like "LEMON" to encrypt "ATTACK AT DAWN" created a more secure message.
 
-During World War II, the German Enigma machine significantly advanced encryption complexity. This electromechanical device used rotors and plugboards to generate trillions of encryption combinations. Allied codebreakers, including Alan Turing, developed techniques and machines (which are known as Turing Machines) to decrypt Enigma messages, influencing the war's outcome and laying the foundation for modern computing.
+During World War II, the German Enigma machine significantly advanced encryption complexity. This electromechanical device used rotors and plugboards to generate trillions of encryption combinations. Allied codebreakers, including Alan Turing, developed techniques) to decrypt Enigma messages, influencing the war's outcome and laying the foundation for modern computing.
 
 :::note 
 Are you at Dickinson College and want to learn more about theories of computations and learn about Turing Machines and P v NP? Take COMP314: Computability and Complexity! Please note that Ty Chermsirivatana '27 does not take any legal or ethical responsibility for the purchase of any caffeinated beverages or tears shed during homework.
