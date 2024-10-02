@@ -11,7 +11,7 @@ draft: false
 > Cover image source: [Source](https://github.com/hashicorp/terraform/commit/b145fbcaadf0fa7d0e7040eac641d9aef2a26433)
 
 :::tip
-All images linked have been verified to be under Fair Use and allowed to be utilize in this blog.
+All images linked have been verified to be under Fair Use and allowed to be utilized in this blog.
 :::
 
 ## Introduction
