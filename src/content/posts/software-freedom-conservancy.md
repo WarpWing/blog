@@ -11,7 +11,7 @@ draft: false
 > Cover image source: [Source](https://sfconservancy.org/)
 
 :::tip
-All images linked have been verified to be under Fair Use and allowed to be utilized in this blog.
+All content (images and videos) linked have been verified to be under Fair Use and allowed to be utilized in this blog.
 :::
 
 # Introduction
