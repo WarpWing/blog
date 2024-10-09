@@ -20,9 +20,12 @@ Free Open-Source Software has become the backbone of the modern digital world, p
 
 # What is the Software Freedom Conservancy?
 
+<iframe width="100%" height="468" src="https://www.youtube.com/embed/yCCxMfW0LTM?si=8b6C9mV9TTypJj6e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The Software Freedom Conservancy is a non-profit organization that provides support to open-source projects. Founded in 2006, its mission is to help free software projects grow, succeed, and remain compliant with policies that protect software freedoms. By becoming a home for these projects, the SFC allows developers to concentrate on what they do best—writing code—without worrying about bureaucracy or financial complexities.
 
 The SFC currently supports a wide range of well-known projects, including Git, the version control system that powers modern software development workflows, and Homebrew, the package manager used by many macOS users. These projects benefit from having an experienced organization handle administrative tasks like donations, grants, and compliance with regulatory requirements.
+
 
 # Why is the SFC Important?
 
