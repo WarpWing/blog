@@ -9,7 +9,8 @@ draft: false
 
 # Hello World!👋
 
-My name is Ty "WarpWing" Chermsirivatana. A little bit about me, I am a 20-year-old male, based in New York, presently pursuing a major in Political Science with a minor in Computer Science as a Sophomore at Dickinson College.
+My name is Ty "WarpWing" Chermsirivatana. A little bit about me, I am a 20-year-old male, based in New York, presently pursuing a double major in Political Science and Law and Policy with a minor in Computer Science as a Sophomore at Dickinson College.
+
 As you can tell, I'm starting a blog! I'm mostly going to talk about my adventures in DevOps, Server Infrastructure, Artifical Intelligence, Cybersecurity and pretty much anything else I find interesting!
 In my current capacity, I serve as the DevOps Consultant for [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) and contribute as a FOSS Developer for Dickinson College's [FarmData2](https://github.com/FarmData2/FarmData2) Project.
 
