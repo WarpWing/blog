@@ -1,5 +1,5 @@
 ---
-title: How Right to Repair Empowers Consumers In The Digtal Age
+title: How Right to Repair Empowers Consumers In The Digital Age
 published: 2024-10-15
 description: An overview of the importance of right to repair in the digital age.
 image: https://i0.wp.com/www.lightnowblog.com/wp-content/uploads/2023/01/LN-Jan26.png?w=650&ssl=1
