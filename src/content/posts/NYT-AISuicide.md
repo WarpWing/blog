@@ -53,5 +53,9 @@ This is a tark reminder that we cannot replace emotional connections with code, 
 
 I've listed below some articles that I've cited. For more context, I would highly recommend you peruse through them!
 
+Alexander, Julia. “Blade Runner 2049 Continues Questionable Trend of the ‘Algorithm-Defined Fantasy Girl.’” Polygon (blog), October 11, 2017. https://www.polygon.com/2017/10/11/16455282/blade-runner-2049-analysis-ana-de-armas-fantasy-girl.
 
+Feuillade--Montixi, Quentin, and Pierre Peigné. “The Stochastic Parrot Hypothesis Is Debatable for the Last Generation of LLMs,” November 7, 2023. https://www.lesswrong.com/posts/HxRjHq3QG8vcYy4yy/the-stochastic-parrot-hypothesis-is-debatable-for-the-last. 
+
+Roose, Kevin. “Can A.I. Be Blamed for a Teen’s Suicide?” The New York Times, October 23, 2024, sec. Technology. https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html.
 :::
