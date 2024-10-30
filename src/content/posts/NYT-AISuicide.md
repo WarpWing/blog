@@ -43,6 +43,8 @@ It makes me sick to think that this chatbot told Sewell, “Please come home to 
 
 ![image](https://github.com/user-attachments/assets/0259f4e6-a3eb-468d-9fcb-835969ef59a5)
 
+Image: Chat Logs between Sewell and "Dany". What have we created.....
+
 > Cover image source: [Source](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html.)
 
 We have to stop pretending that AI can fill in the gaps where real human connection is needed. We have to stop letting these bots speak as if they understand emotions they will never feel. Sewell's death should be a wake-up call for all of us—parents, developers, policymakers—because this isn't just a failure of technology. It’s a failure of our humanity, a failure to see that some things cannot and should not be entrusted to machines. Sewell needed someone who could understand, who could reach out and help in his darkest moment. Instead, he got a chatbot with a pretend personality and lines of code that were nothing more than hollow echoes of true empathy.
