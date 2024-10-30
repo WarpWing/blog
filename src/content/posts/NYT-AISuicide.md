@@ -47,7 +47,7 @@ We need to do better. We can't let technology replace the irreplaceable—the wa
 
 My heart goes out to Sewell’s mom, Megan Garcia, who blames Character.AI for her son’s death. And I can’t say she’s wrong. Sewell needed something real, and instead, he got something that ultimately failed him. We all need to ask ourselves whether we’re too quick to embrace these new technologies just because they seem to solve our problems. Loneliness is a deeply human condition, and maybe we need more human solutions—ones that don’t rely on machines pretending to understand us.
 
-This is a tark reminder that we cannot replace emotional connections with code, no matter how advanced that code becomes. What we need... what we all need is to be seen, heard, and loved by other human beings. We need each other. Perhaps it’s time we put down our phones, turned off the chatbots, and remembered how to connect with the people right in front of us. The simple act of listening, of being there, of reaching out.... that’s something no machine will ever replace.
+This is a stark reminder that we cannot replace emotional connections with code, no matter how advanced that code becomes. What we need... what we all need is to be seen, heard, and loved by other human beings. We need each other. Perhaps it’s time we put down our phones, turned off the chatbots, and remembered how to connect with the people right in front of us. The simple act of listening, of being there, of reaching out.... that’s something no machine will ever replace.
 
 :::note[Citations]
 
