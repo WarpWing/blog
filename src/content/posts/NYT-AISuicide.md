@@ -11,7 +11,7 @@ Image: From the movie ***Her (2013)***, where Joaquin Phoenix’s character, The
 > Cover image source: [Source](https://www.polygon.com/2017/10/11/16455282/blade-runner-2049-analysis-ana-de-armas-fantasy-girl)
 
 :::caution 
-Please be advised that this blog post touches on topics on self harm. If you are ever experiencing suicidal thoughts, please call or text 988 to speak with a counselor. You are not alone.
+Please be advised that this blog post centers around self harm and suicide. If you are ever experiencing suicidal thoughts or consider actions of self harm, please call or text 988 to speak with a counselor. You are not alone.
 :::
 
 :::tip
