@@ -23,7 +23,7 @@ I recently read this [article](https://archive.ph/2024.10.23-142919/https://www.
 The article explores how Sewell's deepening relationship with the AI, facilitated through the Character.AI platform, led to his isolation, mental health struggles, and ultimately, his suicide. 
 His mother has since filed a lawsuit against Character.AI, alleging that the company's technology is dangerous and lacks adequate safeguards for young users. 
 It's a dark and incredibly hard to read article that raises important questions about the role of AI companionship in mental health and the responsibilities of tech companies in ensuring user safety. 
-I won't provide a big introduction like I would normally do. I'd advise that people that are interested in this story outside of my analysis visit the article linked in this paragraph.
+I won't provide a big introduction like I would normally do. I'd advise that people that are interested in this story outside of my analysis to visit the article linked in this paragraph.
 
 # Thoughts 
 
