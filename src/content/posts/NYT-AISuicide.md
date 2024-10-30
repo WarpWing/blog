@@ -7,7 +7,7 @@ tags: [COMP390, Law, AI, Ethics, Tech Safety]
 category: COMP390
 draft: false
 ---
-Image: From the movie ***Her (2013)***, where Joaquin Phoenix’s character, Theodore boots up his AI OS "Samantha" (in which he falls in love with).
+Image: From the movie ***Her (2013)***, where Joaquin Phoenix’s character, Theodore boots up his AI OS "Samantha" that Theodore falls in love with.
 > Cover image source: [Source](https://www.polygon.com/2017/10/11/16455282/blade-runner-2049-analysis-ana-de-armas-fantasy-girl)
 
 :::caution 
