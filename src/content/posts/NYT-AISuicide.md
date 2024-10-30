@@ -1,7 +1,7 @@
 ---
 title: How AI Failed Sewell Setzer III and the Cost of Artificial Empathy
 published: 2024-10-29
-description: How the heartbreaking death of a teenager exposes the dangerous illusion of AI empathy and the need for policymaking in AI Companionship.
+description: How the heartbreaking death of a 14 year old exposes the dangerous illusion of AI empathy and the need for policymaking in AI Companionship.
 image: https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9435297/theodore_her.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=750
 tags: [COMP390, Law, AI, Ethics, Tech Safety]
 category: COMP390
