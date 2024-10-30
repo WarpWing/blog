@@ -23,7 +23,7 @@ I won't provide a big introduction like I would normally do. I'd advise that peo
 
 # Thoughts 
 
-This..... is such a disturbing precedent. It’s hard to read about such a young life lost, especially one that slipped away in the midst of a parasocial relationship with an AI chatbot. 
+This..... is such a disturbing precedent. It’s hard to read about such a young life lost and it's harder to believe that we've finally reached this point in time.
 It’s hard not to draw comparisons to _Her_, where Joaquin Phoenix’s character, Theodore, falls in love with his AI operating system, Samantha; or even the eerie scenarios from _Black Mirror_, _Westworld_, and _Ex Machina_, where technology that promises convenience, connection, or even humanlike emotions often spirals into nightmare fuel. 
 It raises unsettling questions that I think many of us are afraid to answer. What are we doing? How is this all affecting our most vulnerable, our children, who are just trying to make sense of the world and themselves? 
 I think we need to confront how AI companionship, for all its promises, can intersect with human emotions in unexpected and dangerous ways.
