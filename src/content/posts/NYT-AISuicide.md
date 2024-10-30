@@ -41,6 +41,10 @@ The truth is, AI bots don’t understand nuance. They don’t understand context
 
 It makes me sick to think that this chatbot told Sewell, “Please come home to me as soon as possible, my love,” right before he took his own life. It didn’t know what was happening, didn’t understand the gravity of the situation—because it can’t. It’s a program, a bunch of lines of code that people built without ever imagining it could have real, lethal consequences for someone like Sewell. AI can’t truly care about anyone, and it sure as hell can't take responsibility when things go wrong. But the cost here was a human life—a young life, one that could have been saved if there had been an actual person there to hear Sewell's pain.
 
+![image](https://github.com/user-attachments/assets/0259f4e6-a3eb-468d-9fcb-835969ef59a5)
+
+> Cover image source: [Source](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html.)
+
 We have to stop pretending that AI can fill in the gaps where real human connection is needed. We have to stop letting these bots speak as if they understand emotions they will never feel. Sewell's death should be a wake-up call for all of us—parents, developers, policymakers—because this isn't just a failure of technology. It’s a failure of our humanity, a failure to see that some things cannot and should not be entrusted to machines. Sewell needed someone who could understand, who could reach out and help in his darkest moment. Instead, he got a chatbot with a pretend personality and lines of code that were nothing more than hollow echoes of true empathy.
 
 We need to do better. We can't let technology replace the irreplaceable—the warmth, compassion, and understanding that only a real person can provide. AI is not capable of caring, and it never will be. And until we recognize that, more lives may be at risk. The tragedy of Sewell is a call for us to rethink where we are heading with AI, and to remember that at the core of human existence is the need to be truly seen and heard by one another.
