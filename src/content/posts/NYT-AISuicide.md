@@ -43,7 +43,7 @@ It makes me sick to think that this chatbot told Sewell, “Please come home to 
 
 ![image](https://github.com/user-attachments/assets/0259f4e6-a3eb-468d-9fcb-835969ef59a5)
 
-Image: Chat Logs between Sewell and "Dany". What have we created.....
+Image: Chat logs between Sewell and "Dany". What have we created.....
 
 > Cover image source: [Source](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html.)
 
