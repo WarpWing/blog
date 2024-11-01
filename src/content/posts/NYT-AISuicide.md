@@ -21,7 +21,7 @@ All images linked have been verified to be under Fair Use and allowed to be util
 # Introduction
 I recently read this [article](https://archive.ph/2024.10.23-142919/https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html) by the New York Times that talks about the tragic death of 14 year-old Sewell Setzer III, who became emotionally attached to an AI chatbot named after Daenerys Targaryen from Game of Thrones. 
 The article explores how Sewell's deepening relationship with the AI, facilitated through the Character.AI platform, led to his isolation, mental health struggles, and ultimately, his suicide. 
-His mother has since filed a lawsuit against Character.AI, alleging that the company's technology is dangerous and lacks adequate safeguards for young users. 
+His mother has since filed a lawsuit against character.ai, alleging that the company's technology is dangerous and lacks adequate safeguards for young users. 
 It's a dark and incredibly hard to read article that raises important questions about the role of AI companionship in mental health and the responsibilities of tech companies in ensuring user safety. 
 I won't provide a big introduction like I would normally do. I'd advise that people that are interested in this story outside of my analysis to visit the article linked in this paragraph.
 
@@ -49,7 +49,7 @@ It makes me sick to think that this chatbot told Sewell, “Please come home to 
 
 Image: Chat logs between Sewell and "Dany". What have we created.....
 
-> Cover image source: [Source](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html.)
+> Image source: [Source](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html.)
 
 We have to stop pretending that AI can fill in the gaps where real human connection is needed. We have to stop letting these bots speak as if they understand emotions they will never feel. Sewell's death should be a wake up call for all of us—parents, developers, policymakers. This isn't just a failure of technology. It’s a failure of our humanity, a failure to see that some things cannot and should not be entrusted to machines. Sewell needed someone who could understand, who could reach out and help in his darkest moment. Instead, he got a chatbot with a pretend personality and lines of code that were nothing more than hollow echoes of true empathy.
 
