@@ -7,7 +7,7 @@ tags: [COMP390, Cybersecurity, Ethics, FOSS, Tech Safety]
 category: COMP390
 draft: false
 ---
-> Cover image source: [Source](https://www.polygon.com/2017/10/11/16455282/blade-runner-2049-analysis-ana-de-armas-fantasy-girl)
+> Cover image source: [Source](https://www.tracelabs.org/)
 
 
 :::tip
