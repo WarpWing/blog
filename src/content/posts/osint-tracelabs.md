@@ -34,7 +34,7 @@ The intelligence gathered during these CTF events is verified and subsequently s
 # Conclusion 
 As someone who's used OSINT tools as part of hacking CTF including some Search Party CTFs under Trace Labs, I can confirm with bias that Trace Labs and OSINT as a whole is awesome! OSINT is a incredibly powerful field with diverse and impactful applications, and Trace Labs stands out as a compelling example of how OSINT principles can be used for the greater good. Whether you are a cybersecurity professional, an amateur investigator, or simply someone interested in using technology for a positive purpose, OSINT and platforms like Trace Labs present an opportunity to apply your skills to real-world challenges!
 
-![3f41eb969f806c7291db68e6109fa804](https://github.com/user-attachments/assets/064aa263-c0aa-41e1-a475-f2ce1084013a)
+[![3f41eb969f806c7291db68e6109fa804](https://github.com/user-attachments/assets/064aa263-c0aa-41e1-a475-f2ce1084013a)](https://tryhackme.com/r/p/tycherms)
 
 My OSINT Room Completion Badge from TryHackMe. This required me to go over Google Dorking and many other [tools](https://osintframework.com/) listed!
 
