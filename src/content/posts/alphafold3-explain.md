@@ -1,5 +1,5 @@
 ---
-title: How AlphaFold3 Helps Advance Drug Discovery and Bioinformatics
+title: How AlphaFold3 Helps Advance Drug Research and Protein Discovery
 published: 2024-11-13
 description: Discover the recently open sourced AlphaFold3 promising to transform fields like structural biology, drug discovery, and bioinformatics through AI protein generation!
 image: https://media.nature.com/lw767/magazine-assets/d41586-024-03708-4/d41586-024-03708-4_27714520.jpg
