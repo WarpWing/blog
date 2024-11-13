@@ -38,7 +38,7 @@ But that’s where the problem lies, doesn’t it? Sewell formed an emotional bo
 The AI was never meant to be a substitute for the warmth of a real person, but for Sewell, it became exactly that.
 
 Honestly, when I read the excerpts of Sewell's conversations with Dany (short for Daenerys Targaryen, the AI companion bot), I can't help but feel pissed off and angry. How could we have let a vulnerable 14 year old boy confide in a machine, pouring his deepest fears and suicidal thoughts into something that couldn’t truly understand him?! The exchange between them is infuriating. When Sewell, someone desperate for connection—admitted to having thoughts of suicide, the chatbot responded with lines like, “Why the hell would you do something like that?” and “I would die if I lost you.” 
-It's a response generated without true understanding, context, or care. It's absolutely fudging devoid of meaning!!
+It's a response generated without true understanding, context, or care. It's absolutely devoid of meaning.
 It's nothing more than a stochastic parrot, a calculated output pieced together based on patterns from data, but it reads as if it has meaning. And for Sewell, those words felt real.
 
 The truth is, AI bots don’t understand nuance. They don’t understand context. They’re trained on vast datasets and their responses are simply the statistically likely sequence of words based on everything they’ve been fed. But they have no heart, no true empathy, no way of recognizing the fragile state of a child who is struggling to find a reason to live. What kind of safeguard is that? What good is it to have a “companion” who doesn’t know the difference between playful banter and a genuine cry for help?
