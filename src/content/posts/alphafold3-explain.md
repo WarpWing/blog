@@ -26,8 +26,8 @@ AlphaFold3 works in steps, first looking at the sequence of proteins and searchi
 # What are the research applications of AlphaFold3?
 The potential research applications of AlphaFold3 span diverse fields in biological and medical science. In drug discovery, researchers can utilize its capabilities to predict how potential drug compounds might interact with protein targets, potentially accelerating the development of new therapeutics for diseases ranging from cancer to neurological disorders. 
 In the field of synthetic biology, scientists can leverage AlphaFold3 to design novel proteins with specific binding properties for applications in biotechnology and environmental remediation. 
-For basic research in molecular biology, the system enables detailed investigation of transcription factor-DNA interactions, helping unravel the complexities of gene regulation. 
-In structural biology, researchers can use AlphaFold3 to study large macromolecular complexes and their assembly mechanisms, providing insights into fundamental cellular processes. 
+For basic research in molecular biology, the system enables detailed investigation of transcription factor-DNA interactions, helping researchers understand the complexities of gene regulation. 
+In structural biology, researchers can use AlphaFold3 to study large macromolecular complexes and their assembly mechanisms and provide information into fundamental cellular processes. 
 The system's ability to model protein-protein interactions also makes it valuable for studying disease mechanisms, particularly in cases where protein misfolding or abnormal interactions is vital, such as in neurodegenerative diseases like Alzheimer's and Parkinson's.
 
 # Conclusion
