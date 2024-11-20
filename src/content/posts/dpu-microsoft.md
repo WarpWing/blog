@@ -10,6 +10,10 @@ draft: false
 
 > Cover image source: [Source](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/enhancing-infrastructure-efficiency-with-azure-boost-dpu/4298901)
 
+:::tip 
+All images linked have been verified to be under Fair Use and allowed to be utilized in this blog. 
+:::
+
 ## Introduction
 
 As the demand for efficient and high-performance cloud infrastructure grows, data centers face increasingly complex challenges. Managing vast quantities of data across networks, ensuring secure transmission, and optimizing workloads have become critical priorities for providers. To address these issues, the **Data Processing Unit (DPU)** has emerged as a transformative technology. With the ability to offload specialized data-centric tasks from traditional processors, DPUs promise to revolutionize the way data is handled in large-scale cloud environments. In this post, I'll do an overview into what DPUs are, why they matter, and their potential to redefine cloud computing.
