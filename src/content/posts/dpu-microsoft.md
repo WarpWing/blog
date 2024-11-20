@@ -8,7 +8,7 @@ category: COMP390
 draft: false
 ---
 
-Source: https://techcommunity.microsoft.com/blog/azureinfrastructureblog/enhancing-infrastructure-efficiency-with-azure-boost-dpu/4298901
+> Cover image source: [Source](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/enhancing-infrastructure-efficiency-with-azure-boost-dpu/4298901)
 
 ## Introduction
 
