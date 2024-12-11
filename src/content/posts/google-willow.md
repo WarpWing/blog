@@ -51,12 +51,6 @@ The significance of Willow extends beyond its technical achievements. As Hartmut
 
 This breakthrough represents more than just an incremental improvement in quantum computing - it's a fundamental shift that brings us closer to practical, large-scale quantum computers. The ability to effectively correct errors while scaling up the number of qubits has been a holy grail in quantum computing, and Willow's success in this area marks a historic turning point in the field.
 
-## Looking Forward + Citations
-
-As we stand at this technological threshold, it's clear that Willow represents more than just another step forward in quantum computing - it's a leap toward a future where quantum computers can tackle problems that are currently beyond our reach. While there's still work to be done before quantum computers become commonplace in commercial applications, Willow demonstrates that we're moving in the right direction at an accelerating pace.
-
-The quantum computing community now faces the exciting challenge of developing algorithms and applications that can harness this unprecedented computational power for practical purposes. With Willow's breakthrough in error correction and computational capabilities, we're closer than ever to realizing the full potential of quantum computing.
-
 :::note[Citations]
 
 I've listed below some content that I've cited. For more context, I would highly recommend you peruse through them!
